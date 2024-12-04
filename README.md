@@ -1,6 +1,6 @@
-# untitled1
+# GAMIFY
 
-A new Flutter project.
+A Flutter Ui Training.
 
 ## Getting Started
 
@@ -8,9 +8,6 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [HomePage](https://live.staticflickr.com/65535/54183502555_8ec43611cc_c.jpg)
+- [vido](https://flic.kr/p/2qxZKDa)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
